@@ -1,4 +1,4 @@
-# Setup React TDD development environment 
+# Setup React TDD Development Environment 
 Setup React development environment without Create React App.
 This tutorial will guide you to setup and install React development environment using these technologies:
 
